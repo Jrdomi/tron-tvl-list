@@ -68,7 +68,7 @@ https://coinmarketcap.com/currencies/sun-token
 SUN is first integrated platform for stablecoin swap, stake-mining and self-governance on TRON.
 
 ##### Token address and ticker if any:
-TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S
+TATCwy9YrsC9t8ULqxi5AzD9tM4TnzXcYC
 
 ##### Pool addresses:
 TKcEU8ekq2ZoFzLSGFYCUY6aocJBX9X31b, TAkrcKsS5FW9f3ZfzvWy6Zvsz9uEjUxPoV.
